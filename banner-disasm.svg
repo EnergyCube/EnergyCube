@@ -82,27 +82,27 @@
       </g>
 
       <g fill="#e6edf3">
-        <text x="440" y="26">push</text>
-        <text x="440" y="48">mov</text>
-        <text x="440" y="70">sub</text>
-        <text x="440" y="92">lea</text>
-        <text x="440" y="114">call</text>
-        <text x="440" y="136">test</text>
+        <text x="418" y="26">push</text>
+        <text x="418" y="48">mov</text>
+        <text x="418" y="70">sub</text>
+        <text x="418" y="92">lea</text>
+        <text x="418" y="114">call</text>
+        <text x="418" y="136">test</text>
       </g>
 
       <g fill="#79c0ff">
-        <text x="500" y="26">ebp</text>
-        <text x="500" y="48">ebp, esp</text>
-        <text x="500" y="70">esp, 0x40</text>
-        <text x="500" y="92">eax, [ebp-0x18]</text>
-        <text x="500" y="114">hook_gameloop</text>
-        <text x="500" y="136">eax, eax</text>
+        <text x="470" y="26">ebp</text>
+        <text x="470" y="48">ebp, esp</text>
+        <text x="470" y="70">esp, 0x40</text>
+        <text x="470" y="92">eax, [ebp-0x18]</text>
+        <text x="470" y="114">hook_gameloop</text>
+        <text x="470" y="136">eax, eax</text>
       </g>
 
       <g fill="#6e7681" font-style="italic">
-        <text x="660" y="26">; prologue</text>
-        <text x="660" y="70">; patched</text>
-        <text x="660" y="114">; detour installed</text>
+        <text x="620" y="26">; prologue</text>
+        <text x="620" y="70">; patched</text>
+        <text x="620" y="114">; detour installed</text>
       </g>
     </g>
 
